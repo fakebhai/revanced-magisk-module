@@ -1,6 +1,6 @@
+GooglePhotos (arm64-v8a): 7.29.0.757514586  
 IconPackStudio: 2.2 build 016  
 Music-Extended (arm64-v8a): 8.05.51  
-GooglePhotos (arm64-v8a): 7.29.0.757514586  
 Music-Extended (arm-v7a): 8.05.51  
 Twitch: 24.4.0  
 
