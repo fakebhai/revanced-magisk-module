@@ -34,10 +34,10 @@ uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 [Spotify]
 enabled = true
 build-mode = "apk"
-version = "auto"
+version = "9.0.42.529"
 #arch = "both"
-#apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts/"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts/"
 
 # dont build on gh actions (https://github.com/j-hc/revanced-magisk-module/issues/554)
 [Music-Extended]
