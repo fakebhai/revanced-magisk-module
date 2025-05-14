@@ -37,7 +37,7 @@ build-mode = "apk"
 version = "9.0.42.529"
 #arch = "both"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts/"
+#apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts/"
 
 # dont build on gh actions (https://github.com/j-hc/revanced-magisk-module/issues/554)
 [Music-Extended]
