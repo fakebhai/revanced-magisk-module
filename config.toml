@@ -35,7 +35,7 @@ uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 enabled = true
 build-mode = "apk"
 version = "9.0.42.529"
-#arch = "both"
+arch = "both"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts/"
 
