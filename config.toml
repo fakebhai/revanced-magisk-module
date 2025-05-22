@@ -34,10 +34,9 @@ uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 [Spotify]
 enabled = true
 build-mode = "apk"
-version = "9.0.42.529"
 arch = "both"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
-#apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts/"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts/"
 
 # dont build on gh actions (https://github.com/j-hc/revanced-magisk-module/issues/554)
 [Music-Extended]
@@ -59,6 +58,7 @@ cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "apk"
 version = "auto"
+arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
