@@ -1,6 +1,6 @@
 {
-  "version": "v19.47.53 (25)",
-  "versionCode": 25,
-  "zipUrl": "https://github.com/fakebhai/revanced-magisk-module/releases/download/25/youtube-revanced-magisk-v19.47.53-all.zip",
+  "version": "v20.12.46 (patches 5.27.0)",
+  "versionCode": 70,
+  "zipUrl": "https://github.com/fakebhai/revanced-magisk-module/releases/download/70/youtube-revanced-magisk-v20.12.46-all.zip",
   "changelog": "https://raw.githubusercontent.com/fakebhai/revanced-magisk-module/update/build.md"
 }
