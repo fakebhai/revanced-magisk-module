@@ -1,6 +1,6 @@
 {
-  "version": "v8.05.51 (patches 5.29.0)",
-  "versionCode": 72,
-  "zipUrl": "https://github.com/fakebhai/revanced-magisk-module/releases/download/72/music-revanced-magisk-v8.05.51-arm-v7a.zip",
+  "version": "v8.05.51 (patches 5.30.0)",
+  "versionCode": 73,
+  "zipUrl": "https://github.com/fakebhai/revanced-magisk-module/releases/download/73/music-revanced-magisk-v8.05.51-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/fakebhai/revanced-magisk-module/update/build.md"
 }
