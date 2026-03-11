@@ -1,6 +1,6 @@
 {
-  "version": "v7.35.0.774533729 (patches 5.29.0)",
-  "versionCode": 72,
-  "zipUrl": "https://github.com/fakebhai/revanced-magisk-module/releases/download/72/googlephotos-revanced-magisk-v7.35.0.774533729-arm-v7a.zip",
+  "version": "v7.66.0.876414181 (patches 5.50.2.rvp)",
+  "versionCode": 107,
+  "zipUrl": "https://github.com/fakebhai/revanced-magisk-module/releases/download/107/googlephotos-revanced-module-v7.66.0.876414181-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/fakebhai/revanced-magisk-module/update/build.md"
 }
