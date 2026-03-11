@@ -1,12 +1,13 @@
-GooglePhotos (arm64-v8a): 7.66.0.876414181  
-GooglePhotos (arm-v7a): 7.66.0.876414181  
-Music (arm64-v8a): 8.10.52  
+GooglePhotos (arm-v7a): 7.67.0.881063292  
+GooglePhotos (arm64-v8a): 7.67.0.881063292  
 Music (arm-v7a): 8.10.52  
-Music-Morphe (arm64-v8a): 8.44.54  
+Music (arm64-v8a): 8.10.52  
 Music-Morphe (arm-v7a): 8.44.54  
-Reddit-Morphe: 2026.04.0  
+Music-Morphe (arm64-v8a): 8.44.54  
 YouTube: 20.14.43  
+Reddit-Morphe: 2026.04.0  
 YouTube-Morphe: 20.44.38  
+YouTube-Extended: 20.05.46  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music modules from Play Store  
