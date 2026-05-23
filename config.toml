@@ -58,8 +58,9 @@ rv-brand = "Piko"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter/"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 build-mode = "apk"
-version = "11.81.0-release.0"
-include-stock = "split"
+arch = "both"
+# version = "11.81.0-release.0"
+# include-stock = "split"
 
 [GooglePhotos]
 build-mode = "both"
