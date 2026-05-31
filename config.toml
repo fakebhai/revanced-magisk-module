@@ -80,7 +80,7 @@ uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 [YouTube-Extended]
 app-name = "YouTube"
 patches-source = "anddea/revanced-patches"
-cli-source = "inotia00/revanced-cli"
+cli-source = "ReVanced/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "apk"
 arch = "both"
