@@ -78,6 +78,7 @@ uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 
 
 [YouTube-Extended]
+enabled = false
 app-name = "YouTube"
 patches-source = "anddea/revanced-patches"
 cli-source = "ReVanced/revanced-cli"
