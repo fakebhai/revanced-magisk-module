@@ -78,6 +78,7 @@ uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 
 [Instagram]
 enabled = true
+rv-brand = "Piko"
 arch = "both"
 build-mode = "apk"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
