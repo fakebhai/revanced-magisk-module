@@ -81,7 +81,7 @@ enabled = true
 patches-source = "crimera/piko"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Piko"
-arch = "both"
+#arch = "both"
 build-mode = "apk"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
 
