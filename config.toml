@@ -86,7 +86,8 @@ rv-brand = "Piko"
 #arch = "both"
 build-mode = "apk"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
-uptodown-durl = "https://instagram.en.uptodown.com/android"
+uptodown-dlurl = "https://instagram.en.uptodown.com/android"
+direct-dlurl = "https://files.catbox.moe/qn3c0g.apkm"
 
 
 [YouTube-Extended]
