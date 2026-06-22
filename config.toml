@@ -79,6 +79,7 @@ uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 
 [Instagram]
 enabled = true
+app-name = "Instagram"
 patches-source = "crimera/piko"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Piko"
