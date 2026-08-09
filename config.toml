@@ -64,7 +64,7 @@ include-stock = "split"
 
 [Instagram]
 enabled = true
-#app-name = "Instagram"
+app-name = "Instagram"
 patches-source = "crimera/piko"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Piko"
