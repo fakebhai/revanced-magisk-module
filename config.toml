@@ -54,7 +54,7 @@ uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 dpi = "120-640dpi"
 
 [Twitter]
-enabled = false
+enabled = true
 patches-source = "crimera/piko"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Piko"
@@ -79,7 +79,7 @@ uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 
 [Instagram]
 enabled = true
-app-name = "Instagram"
+#app-name = "Instagram"
 patches-source = "crimera/piko"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Piko"
@@ -87,7 +87,7 @@ rv-brand = "Piko"
 build-mode = "apk"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
-direct-dlurl = "https://files.catbox.moe/qn3c0g.apkm"
+#direct-dlurl = "https://files.catbox.moe/qn3c0g.apkm"
 
 
 [YouTube-Extended]
